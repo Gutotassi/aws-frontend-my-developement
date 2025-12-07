@@ -1,4 +1,4 @@
-# aws-frontend-my-development
+# aws-frontend-my-development2
 A personal financial control system built for AWS deployment, providing comprehensive personal finance management with a modern and intuitive interface.
 
 ## ⚡ Quick Start
